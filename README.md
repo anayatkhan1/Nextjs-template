@@ -8,9 +8,12 @@
 - 🔍 **TypeScript**: Develop with strong typing and improved code quality.
 - 🚀 **ESLint and Prettier**: Ensure consistent code style and catch errors early.
 - 🐶 **Husky and Lint-Staged**: Enforce code quality with pre-commit hooks.
+- 💡 **Shadow and Background Snippets**: Accelerate development with helpful shadow and background snippets.
+- 🖼️ **Shadcn UI Library**: Integrate Shadcn UI library for building beautiful user interfaces effortlessly.
 - 🃏 **Jest and Testing Library**: Write and run tests with ease to ensure robustness.
 - 🎭 **Playwright**: Automate browser testing for comprehensive coverage.
 - 📊 **Vercel Analytics and Vercel SpeedInsight**: Monitor and optimize performance for better user experiences.
+
 
 ## Getting Started
 
